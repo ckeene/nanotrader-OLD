@@ -1,16 +1,16 @@
 NanoTrader Reference Appliation
 -------------------------------
 
-This project represents a port of the [Apache DayTrader project>] from JEE to Java. It also extends the DayTrader application to add the following capabilities:
- * real time risk assessment with user-configurable alerts
- * modern Ajax web UI
- * mobile-enabled client
- * fully virtualized architecture
- * elastic scaling for each layer of architecture
- * self-healing failover/recovery for each layer of architecture
- * application level performance monitoring
- * [ChaosMonkey>] application to demonstrate HA/DR automation
- * automated installation to public and private cloud architectures
+This project represents a port of the [Apache DayTrader project](https://cwiki.apache.org/GMOxDOC20/daytrader.html "DayTrader") from JEE to Java. It also extends the DayTrader application to add the following capabilities:
+* real time risk assessment with user-configurable alerts
+* modern Ajax web UI
+* mobile-enabled client
+* fully virtualized architecture
+* elastic scaling for each layer of architecture
+* self-healing failover/recovery for each layer of architecture
+* application level performance monitoring
+* [ChaosMonkey](http://www.codinghorror.com/blog/2011/04/working-with-the-chaos-monkey.html) application to demonstrate HA/DR automation
+* automated installation to public and private cloud architectures
         
 License and Author
 ==================
